@@ -1,0 +1,46 @@
+
+---
+
+### **2. 37_APITraceScope**  
+**Description:**  
+Tracks API endpoints and highlights changes in latency, response status, and availability trends over time.
+
+#### **README.md**
+```markdown
+# APITraceScope - Latency and Availability Monitor
+
+APITraceScope captures and compares real-time API performance for large sets of endpoints.
+
+## Features
+- Latency + status logging  
+- Drift tracking  
+- Exportable logs (CSV / JSON)  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_APITraceScope.git
+cd 37_APITraceScope
+python monitor.py
+
+---
+
+### **2. 37_APITraceScope**  
+**Description:**  
+Tracks API endpoints and highlights changes in latency, response status, and availability trends over time.
+
+#### **README.md**
+```markdown
+# APITraceScope - Latency and Availability Monitor
+
+APITraceScope captures and compares real-time API performance for large sets of endpoints.
+
+## Features
+- Latency + status logging  
+- Drift tracking  
+- Exportable logs (CSV / JSON)  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_APITraceScope.git
+cd 37_APITraceScope
+python monitor.py
